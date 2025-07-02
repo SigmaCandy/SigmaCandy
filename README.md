@@ -1,11 +1,4 @@
 ## Hi I'M AI Forge Lab there 👋
-
-<!--
-**SigmaCandy/SigmaCandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# 📘 Python Learning Notes
-
-This repository is a beginner-friendly guide to Python programming. It includes basic concepts, clear examples, and small projects.
-
 ---
 
 ## 📂 Topics Covered
