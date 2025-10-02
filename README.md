@@ -13,12 +13,5 @@
 These plugins can inspect and change your markup.
 You can use FlorixL on the server, the client, CLIs, deno, etc.
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SigmaCandy&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SigmaCandy&theme=radical" width="450"/>
-</p>
-
 
 
